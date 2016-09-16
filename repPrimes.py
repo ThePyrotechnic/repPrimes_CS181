@@ -1,3 +1,5 @@
+# Michael Manis
+# 09/16/2016
 import random
 
 
